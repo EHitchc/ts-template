@@ -1,0 +1,9 @@
+# project/generated files
+node_modules
+.idea
+.eslintcache
+.tsbuildinfo
+
+# ignore compiled js files
+src/**/*.js
+dist
